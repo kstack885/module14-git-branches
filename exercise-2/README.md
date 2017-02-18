@@ -1,11 +1,8 @@
 # Exercise-2
 In this exercise, you'll practice resolving a merge conflict.
 
-<<<<<<< HEAD
 > "Rage, rage against the dying of the light"
-=======
-> Warning!
->>>>>>> danger
+
 
 For this exercise, complete the following steps:
 
